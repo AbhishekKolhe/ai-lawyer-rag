@@ -115,9 +115,3 @@ streamlit run main.py
     ```
     python rag_pipeline.py
     ```
-
-Ensure that all dependencies are installed before running the scripts.
-
----
-
-If you encounter any issues, feel free to reach out or check the documentation for the tools mentioned above.
