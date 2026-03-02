@@ -1,0 +1,4 @@
+.env
+vectorstore/
+pdfs/
+__pycache__/
